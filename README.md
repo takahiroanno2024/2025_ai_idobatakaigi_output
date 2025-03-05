@@ -1,0 +1,2 @@
+# 2025_ai_idobatakaigi_output
+東京都AI戦略井戸端会議のアウトプット（discourse議論の成果物）
