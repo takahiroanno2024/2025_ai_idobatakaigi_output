@@ -5,7 +5,7 @@
 - 東京都AI戦略井戸端会議のアウトプット
     - Discourseで行われた議論を集約するためのページです。
     - 会議場は[こちら](https://large-scale-conversation-sandbox.discourse.group/)
-- 各トピックリーダーが作成します
+- 各ファシリテーターが議論の推移を鑑み、安野のレビューを経つつ作成・修正します。
 
 以下Discourseからの引用です。
 
