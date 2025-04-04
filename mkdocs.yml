@@ -1,0 +1,18 @@
+site_name: 安野たかひろ：政策リポジトリ
+theme:
+  name: material
+  custom_dir: overrides
+  language: ja
+nav:
+  - Home: 'index.md'
+  - 'AI政策':
+    - '1. 生成AI活用':
+      - '1.1 教育DXへの生成AI活用': '1.1_教育DXへの生成AI活用.md'
+      - '1.2 医療DXへの生成AI活用': '1.2_医療DXへの生成AI活用.md'
+      - '1.3 その他政策における生成AI活用': '1.3_その他政策における生成AI活用.md'
+    - '2. 海外AI人材・企業への魅力発信': '2_海外AI人材・企業への魅力発信.md'
+    - '3. AI人材育成': '3_AI人材育成.md'
+    - '4. ガバナンスルールの整備': '4_ガバナンスルールの整備.md'
+  - '貢献したいあなたへ': 'contribution.md'
+  - 'Issueマニュアル': 'manual_issue.md'
+  - 'Pull Requestマニュアル': 'manual_pull_request.md'
