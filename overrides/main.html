@@ -1,3 +1,192 @@
 {% extends "base.html" %}
 {% block extrahead %}
+<style>
+  /* チャットUIのスタイル */
+  .chat-container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+    background-color: #f8f9fa;
+    border-right: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+  }
+  
+  .chat-header {
+    padding: 11px;
+    background-color: #343a40;
+    color: white;
+    font-weight: bold;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .message {
+    padding: 10px 15px;
+    border-radius: 18px;
+    max-width: 80%;
+    word-break: break-word;
+  }
+  
+  .user-message {
+    align-self: flex-end;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .bot-message {
+    align-self: flex-start;
+    background-color: #e9ecef;
+    color: #212529;
+  }
+  
+  .chat-input {
+    padding: 15px;
+    border-top: 1px solid #e0e0e0;
+    display: flex;
+  }
+  
+  .chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 20px;
+    outline: none;
+  }
+  
+  .chat-input button {
+    margin-left: 10px;
+    background-color: #4051b5;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  /* メインコンテンツのマージン調整 */
+  .md-main__inner {
+    margin-left: 300px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .chat-container {
+      width: 100%;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+    }
+    
+    .chat-container.open {
+      transform: translateX(0);
+    }
+    
+    .chat-toggle {
+      position: fixed;
+      left: 10px;
+      bottom: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      font-size: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 1001;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    
+    .md-main__inner {
+      margin-left: 0;
+    }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- チャットUI -->
+<div class="chat-container" id="chatContainer">
+  <div class="chat-header">チャットアシスタント</div>
+  <div class="chat-messages" id="chatMessages">
+    <div class="message bot-message">こんにちは！何かお手伝いできることはありますか？</div>
+  </div>
+  <div class="chat-input">
+    <input type="text" id="messageInput" placeholder="メッセージを入力...">
+    <button id="sendButton">送信</button>
+  </div>
+</div>
+
+<!-- モバイル用トグルボタン -->
+<button class="chat-toggle" id="chatToggle">+</button>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const chatToggle = document.getElementById('chatToggle');
+    const chatContainer = document.getElementById('chatContainer');
+    const messageInput = document.getElementById('messageInput');
+    const sendButton = document.getElementById('sendButton');
+    const chatMessages = document.getElementById('chatMessages');
+    
+    // モバイル用トグルボタンの処理
+    chatToggle.addEventListener('click', function() {
+      chatContainer.classList.toggle('open');
+      chatToggle.textContent = chatContainer.classList.contains('open') ? '×' : '+';
+    });
+    
+    // メッセージ送信処理
+    function sendMessage() {
+      const message = messageInput.value.trim();
+      if (message) {
+        // ユーザーメッセージを追加
+        const userMessageDiv = document.createElement('div');
+        userMessageDiv.className = 'message user-message';
+        userMessageDiv.textContent = message;
+        chatMessages.appendChild(userMessageDiv);
+        
+        // 入力フィールドをクリア
+        messageInput.value = '';
+        
+        // 自動スクロール
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        
+        // ボットの応答（デモ用）
+        setTimeout(() => {
+          const botMessageDiv = document.createElement('div');
+          botMessageDiv.className = 'message bot-message';
+          botMessageDiv.textContent = 'ありがとうございます。お役に立てて嬉しいです。';
+          chatMessages.appendChild(botMessageDiv);
+          chatMessages.scrollTop = chatMessages.scrollHeight;
+        }, 1000);
+      }
+    }
+    
+    // 送信ボタンクリック時の処理
+    sendButton.addEventListener('click', sendMessage);
+    
+    // Enterキー押下時の処理
+    messageInput.addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        sendMessage();
+      }
+    });
+  });
+</script>
+
+{{ super() }}
 {% endblock %}
