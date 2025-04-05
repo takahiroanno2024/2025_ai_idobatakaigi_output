@@ -1,5 +1,10 @@
 # 世界のAI人材・企業などへ、どう東京の魅力を発信すべきか
 
+<div style="margin-bottom: 20px;">
+<a href="https://large-scale-conversation-sandbox.discourse.group/t/topic/365" style="display: inline-block; padding: 10px 20px; margin-right: 10px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Discourse で議論する</a>
+<a href="https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/blob/main/docs/2_%E6%B5%B7%E5%A4%96AI%E4%BA%BA%E6%9D%90%E3%83%BB%E4%BC%81%E6%A5%AD%E3%81%B8%E3%81%AE%E9%AD%85%E5%8A%9B%E7%99%BA%E4%BF%A1.md" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub で編集する</a>
+</div>
+
 ## 提言v.0.5
 
 ### 施策１：世界のAI人材へのニーズ調査（ヒアリング、ブロードリスニング）

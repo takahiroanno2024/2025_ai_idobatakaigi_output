@@ -1,6 +1,11 @@
 AI人材育成をどうすべきか
 提言v0.5
 
+<div style="margin-bottom: 20px;">
+<a href="https://large-scale-conversation-sandbox.discourse.group/t/topic/366" style="display: inline-block; padding: 10px 20px; margin-right: 10px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Discourse で議論する</a>
+<a href="https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/blob/main/docs/3_AI%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90.md" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub で編集する</a>
+</div>
+
 # 意見の収集状況
 - AIチャット、掲示板、X、youtubeから◯件の意見を収集
 
