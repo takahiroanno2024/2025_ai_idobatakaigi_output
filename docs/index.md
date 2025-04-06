@@ -1,5 +1,9 @@
 # 東京都AI戦略いどばた会議 提言資料
 
+<div style="margin-bottom: 20px;">
+<a href="https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/blob/main/docs/index.md" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub で編集する</a>
+</div>
+
 ## 概要
 
 提言に対して、誰でも自由に変更提案をすることができます。
@@ -8,42 +12,13 @@
 
 現在のAI政策はこちらから確認できます。
 
-1. 生成AI活用
-   - [1.1 教育DXへの生成AI活用](./1.1_教育DXへの生成AI活用.md)
-   - [1.2 医療DXへの生成AI活用](./1.2_医療DXへの生成AI活用.md)
-   - [1.3 その他政策における生成AI活用](./1.3_その他政策における生成AI活用.md)
-2. [海外AI人材・企業への魅力発信](./2_海外AI人材・企業への魅力発信.md)
-3. [AI人材育成](./3_AI人材育成.md)
-4. [ガバナンスルールの整備](./4_ガバナンスルールの整備.md)
-
-### 初めての方へ
-
-参加したい方や、貢献したいけどどう貢献すればわからない方は、まず[こちら](contribution.md)をお読みください
-
-## 意見をつたえる
-
-### 課題提起（Issue・イシュー）
-
-東京都の政策や安野たかひろのマニフェストについて、直した方がいいところや追加した方がいいと思うことについて議論します。
-
-- イシューを立てる方はこちら
-    - [GitHub issues](https://github.com/takahiroanno/election2024/issues)
-- 新しいイシューの立て方は[こちら](manual_issue.md#new_issue)
-- イシューへのコメントの仕方は[こちら](manual_issue.md#comment_issue)
-
-### 変更提案（Pull Request・プルリクエスト）
-
-安野たかひろのマニフェストに対して、具体的に変更提案します。
-
-- 変更提案はこちら
-    - [GitHub](https://github.com/takahiroanno/election2024)
-- 変更提案の仕方は[こちら](manual_pull_request.md)
-
-### 変更提案の反映について
-
-- 頂いた変更提案は、安野たかひろが責任をもって確認します。
-- 変更提案をマニフェストに反映させるかどうかについては、安野たかひろが権限を持ちます。
-- 当初マニフェストとは異なる方向性の提案であっても、真剣に検討し、反映するかどうかを考えます。
+- 1.生成AI活用
+    - [1.1 教育DXへの生成AI活用](./1.1_教育DXへの生成AI活用.md)
+    - [1.2 医療DXへの生成AI活用](./1.2_医療DXへの生成AI活用.md)
+    - [1.3 その他政策における生成AI活用](./1.3_その他政策における生成AI活用.md)
+- 2.[海外AI人材・企業への魅力発信](./2_海外AI人材・企業への魅力発信.md)
+- 3.[AI人材育成](./3_AI人材育成.md)
+- 4.[ガバナンスルールの整備](./4_ガバナンスルールの整備.md)
 
 ## 注意事項
 
@@ -56,7 +31,6 @@
 注意事項に反して健全な議論が行われていないと判断した場合、一時的に当該スレッドのインタラクションを制限することがあります。
 
 ## 禁止事項
-https://github.com/takahiroanno/election2024/
 1. 個人攻撃や誹謗中傷
 2. 差別的な発言
 3. ハラスメント
@@ -73,6 +47,6 @@ https://github.com/takahiroanno/election2024/
 - 本リポジトリは、クリエイティブ・コモンズ・ライセンスの[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)の下で公開されています。
     - 著作権者（安野たかひろ）のクレジットを表示すること、およびライセンスへのリンクを提供することを条件に、営利・非営利での複製・再配布・翻案・改変が可能です。
     - 詳しくは[クリエイティブ・コモンズ・ライセンスHP](https://creativecommons.jp/licenses/)をご覧ください。
-    - リーガルコードは[こちら](https://github.com/takahiroanno/election2024/blob/main/LICENSE)です。
+    - リーガルコードは[こちら](https://github.com/takahiroanno2024/2025_ai_idobatakaigi_outpu/blob/main/LICENSE)です。
 - 貢献者は、クリエイティブ・コモンズ・ライセンスのCC BY 4.0のライセンス下において、本リポジトリを第三者が利用することに同意したものとみなします。
 - 貢献者の著作権者表記につきましては、当リポジトリへのコミットログ等をもって代えさせていただきます。

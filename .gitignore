@@ -1,5 +1,6 @@
 gvenv
 .venv/*
 site
+.DS_Store
 
 .env
