@@ -40,24 +40,26 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 
 ### 海外事例
 
-#### アメリカ：ルイジアナ州
-- 2024年に「Louisiana Growth Fund」（5,000万ドル規模）を創設し、AIスタートアップに資金提供しています。
-- 州経済開発局内に「Louisiana Innovation（LA.IO）」を設置しました。
-- AI研究所と連動し、スタートアップ支援・中小企業向けAI導入支援・人材育成を一体で推進しています。
+#### 🇺🇸 アメリカ：ルイジアナ州「Louisiana Growth Fund」
+- 2024年、州経済開発局（Louisiana Economic Development）にて「Louisiana Innovation（LA.IO）」を創設。
+- 同年、5,000万ドル規模の「Louisiana Growth Fund」を立ち上げ、AIスタートアップ等への出資を開始。
+- 投資は初期段階の企業を対象とし、研究所への支援とは切り離して運用。
+- 参考URL:  
+  https://www.opportunitylouisiana.gov/news/state-of-louisiana-launches-innovation-brand-announces-creation-of-50-million-growth-fund-and-artificial-intelligence-research-institute
 
-#### アメリカ：連邦政府
-- 「国家AIイニシアチブ法」に基づき、全米AI研究所へ2023年に1.4億ドルを追加投資しました。
-- AI応用研究とスタートアップ連携によるエコシステム形成を強化しています。
+#### 🇬🇧 イギリス：Innovate UK「BridgeAI」
+- 政府系機関Innovate UKが実施するAIスタートアップ支援プログラム。
+- 「BridgeAI」では、産業横断でAI技術の社会実装を促進するため、助成金やマッチング支援を提供。
+- スタートアップの事業化支援に特化し、教育・研究支援とは明確に区分。
+- 参考URL:  
+  https://iuk-business-connect.org.uk/programme/bridgeai/
 
-#### イギリス
-- 政府系機関Innovate UKが助成金・アクセラレーター支援を実施しています。
-- BridgeAIなど横断的支援プログラムにより、研究・スタートアップの橋渡しを行っています。
-- 一方で、資金不足からスタートアップの海外流出（例：DeepMind）も課題になっています。
-
-#### 中国：深圳市
-- 年間5億元規模の補助金によるAIスタートアップ支援を実施しています。
-- オフィス賃料の最大3年免除、研究開発費・生活費支給などをパッケージ化しています。
-- 国内外の優秀なAI人材を地域に呼び込む制度が整備されています。
+#### 🇨🇳 中国：深圳市「AI先進都市戦略」
+- 深圳市は、2023年からAIスタートアップ支援に年5億元（約68億円）以上を投入。
+- 支援内容には、オフィス賃料の免除、R&D補助、生活支援、データ提供、知財支援等が含まれる。
+- 地方自治体主導で、創業段階から成長期までを対象にパッケージ型支援を実施。
+- 参考URL:  
+  https://www.yicaiglobal.com/news/shenzhen-to-fund-local-firms-to-promote-ai-industry-development/#:~:text=artificial%20intelligence%20sector
 
 
 
@@ -89,24 +91,32 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 
 ### 海外事例
 
-#### イギリス：AI人材育成プログラム
-- 2022年、非AI専攻出身者向けの大学院「AIコンバージョンコース」奨学金制度を拡充しました。
-- 1,700万ポンドを追加拠出し、2,000件の奨学金（1件1万ポンド）を支給しました。
-- 対象：女性・黒人・障がい者・低所得層出身者など、多様性促進を目的に設計されています。
-- 専門分野を問わない柔軟な支援設計で、AI分野への人材流入を促進しています。
+#### 🇬🇧 イギリス：AI・データサイエンス大学院コンバージョンコース奨学金制度
 
-#### アメリカ：NSF（全米科学財団）
-- AI研究所の設立と並行して、各研究所が人材育成を目的としたフェローシップや奨学金を提供しています。
-- 教員・研究者との共同プロジェクト型支援により、学生の実践力を高める設計です。
-- 民間企業と連携したインターンシップとの組み合わせが多く見られます。
+- イギリス政府は、AI・データサイエンス分野への人材流入を促進するため、非AI専攻出身者を対象とした大学院コンバージョンコースの奨学金制度を導入。
+- 2023年時点で最大£17百万（約33億円）を拠出し、1人あたり£10,000の返済不要奨学金を提供。
+- 対象者は、女性・黒人・障がい者・低所得層出身者など。多様性向上と非情報系人材の育成が狙い。
+- 教育機関と産業界が共同でカリキュラムを設計し、即戦力となる人材の育成を実施。
+- 参考URL:  
+  https://www.gov.uk/government/news/23-million-to-boost-skills-and-diversity-in-ai-jobs  
+  https://www.officeforstudents.org.uk/publications/ai-and-data-science-postgraduate-conversion-course-scholarship-funding/
 
-#### 中国：国家主導の大学支援
-- AI関連専攻を設置した大学に対して、学生への支援金・生活費補助がセットで提供されるケースが多いです。
-- 深圳では国内外の優秀AI人材に対し、研究資金と生活補助を包括的に支援しています。
-- 大学・地方政府・産業界が連携し、AI人材を地域に定着させる仕組みが構築されています。
+#### 🇺🇸 アメリカ：NSF（全米科学財団）によるAI研究フェローシップ制度
 
+- NSFは全米AI研究所と連携し、修士・博士課程の学生向けにフェローシップ制度を整備。
+- 学生はAI研究所の研究プロジェクトに参加し、産業界との共同研究や教育プログラムを通じて実践力を獲得。
+- 州立大学を中心に、研究・教育・就職を結びつける一体型育成プログラムとして機能。
+- 参考URL:  
+  https://new.nsf.gov/funding/initiatives/ai  
+  https://beta.nsf.gov/news/nsf-invests-140m-seven-new-national-artificial
 
+#### 🇨🇳 中国：深圳大学の国際学生向けAI関連奨学金制度
 
+- 深圳大学は、AI・データサイエンス等の重点分野で国際学生向けの学部・大学院奨学金を支給。
+- 成績優秀者には最大RMB 15,000（約30万円）の給付あり。返還不要。
+- 国際的人材の呼び込みと中国国内のAI研究の国際化を同時に推進。
+- 参考URL:  
+  https://lxs.szu.edu.cn/en/info/1003/2662.htm
 
 ## 施策3：AIスタートアップへの支援（オフィス賃料免除、コンピューターリソース、生活補助提供、特許対応などの実務、広報支援、技術活用フィールドとのマッチングなど）
 
@@ -134,22 +144,29 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 
 ### 海外事例
 
-#### 中国：深圳市
-- 2023年以降、**「AI先進都市」戦略**の一環で、AI系スタートアップに対して包括的支援を実施しています。
-- **オフィス賃料を最長3年間免除**し、モデル訓練費・生活費を補助しています。
-- **特許取得・データ取引支援、AI人材誘致、産業パークへの奨励金支給**など、スタートアップ支援を自治体主導で展開しています。
-- 政策によって国内外の優秀AI人材・スタートアップの呼び込みに成功しています。
 
-#### アメリカ：ニューヨーク市
-- 2023年、**「NYC AI Nexus（仮称）」**という拠点整備を進め、スタートアップと既存企業の協業・実証実験を推進しています。
-- Applied AIの実装拠点としてスタートアップ支援と産学官連携を強化しています。
+### 海外事例
 
-#### イギリス：Innovate UKの支援
-- スタートアップ向け助成金に加え、**BridgeAIプログラム**を通じて実務支援や企業間マッチングを支援しています。
-- 専門家による支援・ピッチイベントなどにより成長機会の創出に成功しています。
+#### 🇨🇳 中国：深圳市のAIスタートアップ支援政策
 
+- 深圳市は、AIスタートアップを対象に、最大3年間のオフィス賃料免除、年間最大100万元（約2,000万円）のコンピューティングリソース補助、特許取得支援、生活費補助などの包括的な支援策を実施しています。
+- これらの支援は、AI人材の誘致と地域定着を目的としており、香港・マカオ出身の若手起業家にも焦点を当てています。
+- 参考URL:  
+  - [Eyeshenzhen - AI ecosystem taking shape in Nanshan](https://www.eyeshenzhen.com/content/2024-06/24/content_31036770.htm)  
+  - [Shenzhen showers AI companies, workers with cash to boost local industry](https://www.scmp.com/tech/big-tech/article/3291602/shenzhen-showers-ai-companies-workers-cash-boost-local-industry)
 
+#### 🇺🇸 アメリカ：ニューヨーク市のAIスタートアップ支援
 
+- ニューヨーク市は、AIスタートアップの支援として、オフィススペースの提供、クラウドサービスのクレジット、法務・知財支援、ピッチイベントの開催などを行っています。
+- 代表的な支援プログラムとして、Entrepreneurs Roundtable Accelerator（ERA）があり、選定されたスタートアップには、無料のオフィススペース、クラウドサービスのクレジット、法務・会計支援、ネットワーキング機会などが提供されます。
+- 参考URL:  
+  - https://www.eranyc.com/
+#### 🇬🇧 イギリス：Innovate UKのBridgeAIプログラム
+
+- イギリス政府のInnovate UKは、BridgeAIプログラムを通じて、AIスタートアップに対する資金提供、専門家とのマッチング、知財支援、実証実験の場の提供などを行っています。
+- このプログラムは、建設、輸送、農業、創造産業などの分野でAIの導入を促進し、スタートアップの成長を支援しています。
+- 参考URL:  
+  - [BridgeAI - Innovate UK Business Connect](https://iuk-business-connect.org.uk/programme/bridgeai/)
 
 
 ## 施策4：都立大学でのAI系の学習・研究の支援（カリキュラム変更やオンラインで無料開放など）
@@ -179,25 +196,45 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 > 東大松尾研のAI教育プログラムのような、文理を問わずAI・データサイエンスの基礎を学べるカリキュラムが導入できれば良いと思う。
 >東大でAIを学ぼうとすると進学振り分けの壁が立ちはだかる。傍流ルートでも進振りスコア高いところばかり。
 東工大や一橋ソシャデなど、東京で東大に次ぐレベルのAIについての学びを受けられる大学の存在感を上げていきたい。 
+### 海外事例（施策4：都立大学でのAI系の学習・研究の支援）
 
-### 海外事例
+#### 🇺🇸 アメリカ：NSFの「EducateAI」イニシアチブ
 
-#### アメリカ：NSF支援の大学AI教育
-- 全米AI研究所において、**学生・教職員向けのAIリテラシー教材開発やオンライン公開**が進行中です。
-- 複数の州立大学で、文系・地域学生・社会人向けに「AI101」などの導入講座が展開されています。
-- ハイブリッド形式での講座提供、教育成果の全国共有が進められています。
+- **概要**：米国国立科学財団（NSF）は、K-12から大学院、成人教育までを対象としたAI教育プログラム「EducateAI」を2023年12月に開始しました。この取り組みは、教育者が高品質で対象者に適したAI教育体験を全国で提供できるよう支援することを目的としています。
 
-#### 中国：北京市・上海市の大学教育改革
-- **北京市では公立大学におけるAIリテラシー科目を必修化（2024年）**しました。
-- **上海市「AI産業発展十四五計画」では、AI教育強化とオンライン学習プラットフォーム構築を並行推進**しています。
-- 数百万人規模での基礎AI教育実施により、人口全体のリテラシー向上を目指しています。
+- **主な特徴**：
+  - AIリテラシー向上のための教材開発とオンライン公開。
+  - K-12から成人教育まで幅広い対象者への対応。
+  - 教育者向けの支援とリソース提供。 [oai_citation_attribution:0‡University of York](https://www.york.ac.uk/study/postgraduate-taught/courses/ma-ai-technology-enhanced-learning/?utm_source=chatgpt.com)
 
-#### イギリス：コンバージョンコースの公開教育
-- 大学とオンライン教育企業が提携し、**AI関連の導入コースを非専攻者に向けて無料提供**しています。
-- オープンアクセス教材とMOOC（大規模公開オンライン講座）で学習機会を拡張しています。
+- **参考URL**：
+  - NSF公式発表: [https://www.nsf.gov/news/nsf-launches-educateai-initiative](https://www.nsf.gov/news/nsf-launches-educateai-initiative) [oai_citation_attribution:1‡NSF - National Science Foundation](https://www.nsf.gov/news/nsf-launches-educateai-initiative?utm_source=chatgpt.com)
 
+#### 🇨🇳 中国：北京市のAI教育義務化政策
 
+- **概要**：北京市は、2025年9月から小学校から高校までの全生徒に対して、年間最低8時間のAI教育を義務化する政策を導入します。このカリキュラムは、基礎的なAI概念の理解から、実践的なAIの応用、倫理的な問題の探求までを含みます。 [oai_citation_attribution:2‡The AI Track](https://theaitrack.com/china-mandates-ai-education/?utm_source=chatgpt.com)
 
+- **主な特徴**：
+  - 小学校から高校までの全学年でのAI教育の導入。
+  - 実践的なAIの応用と倫理的な問題の探求。
+  - 教育段階ごとに適した学習目標の設定。 [oai_citation_attribution:3‡Lawyer Monthly](https://www.lawyer-monthly.com/2025/03/beijing-makes-ai-education-mandatory-for-students/?utm_source=chatgpt.com)
+
+- **参考URL**：
+  - The AI Trackの記事: [https://theaitrack.com/china-mandates-ai-education/](https://theaitrack.com/china-mandates-ai-education/) [oai_citation_attribution:4‡The AI Track](https://theaitrack.com/china-mandates-ai-education/?utm_source=chatgpt.com)
+
+#### 🇬🇧 イギリス：オープンユニバーシティのAI入門オンラインコース
+
+- **概要**：オープンユニバーシティは、AIの歴史的、倫理的、社会的な問題を探求する無料のオンライン短期コース「An Introduction to Artificial Intelligence」を提供しています。このコースは、AI技術の台頭に伴う最新の問題に関心のあるすべての人々を対象としています。 [oai_citation_attribution:5‡The Open University](https://www.open.edu/openlearn/education-development/ai-matters?utm_source=chatgpt.com)
+
+- **主な特徴**：
+  - AIの歴史的背景、倫理的考察、社会的影響の理解。
+  - 多様な視点からのAIに関する議論。
+  - オンラインでの柔軟な学習環境の提供。
+
+- **参考URL**：
+  - オープンユニバーシティ公式コースページ: [https://www.open.ac.uk/courses/short-courses/lg003](https://www.open.ac.uk/courses/short-courses/lg003) [oai_citation_attribution:6‡open.ac.uk](https://www.open.ac.uk/courses/short-courses/lg003?utm_source=chatgpt.com)
+ 
+  
 
 
 ## 施策5：インターン・実践体験機会への補助（既存の都事業を拡大）
@@ -230,18 +267,8 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 
 ### 海外事例
 
-#### アメリカ：NSF・AI研究所と連携した実務訓練
-- 各AI研究所で、**企業との共同研究や産学連携型のインターン制度**を導入しています。
-- 学生が現実の技術課題に取り組み、将来的な起業や就職に直結します。
-- 一部拠点では、**AIスタートアップとの連携を前提とした短期実践プログラム**も設計されています。
 
-#### 中国：深圳市のAI人材呼び込み政策
-- 地元AI企業と連携し、**実地訓練を含む長期インターンや共同研究プロジェクトを制度化**しています。
-- 海外大学の学生も対象に含めた **研究＋実践型奨学金** により人材流入を促進しています。
 
-#### イギリス：BridgeAIの実務体験支援
-- Innovate UKが運営する「BridgeAI」では、**AI導入希望企業と技術人材をつなぐ実践型マッチング制度**を実施しています。
-- 参加者には給与補助があり、現場経験を重視した育成設計です。
 
 
 # その他の意見
