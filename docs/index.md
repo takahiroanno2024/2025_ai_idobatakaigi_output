@@ -1,16 +1,22 @@
-# 東京都AI戦略いどばた会議 提言資料
+# 東京都AI戦略いどばた会議 提言案
 
 <div style="margin-bottom: 20px;">
 <a href="https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/blob/main/docs/index.md" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub で編集する</a>
 </div>
 
+<div style="margin-bottom: 20px;">
+<a href="https://delib.takahiroanno.com/view/docs" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">提言修正AIモジュールで編集する</a>
+</div>
+
 ## 概要
 
-提言に対して、誰でも自由に変更提案をすることができます。
+本提言案は、「デジタル民主主義2030」プロジェクトの一環で、熟議プラットフォームを使って、一人ひとりの意見をAIを活用して反映して作成したものです。    
+これらの提言案に対しては「**提言修正AIモジュール**」を使って、誰でも修正案を出すことができますので、ぜひご意見ください！修正した提言は、**東京都の「東京都AI戦略会議」に対して提言を実施**する予定です。    
+[提言修正AIモジュール](https://delib.takahiroanno.com/view/docs)    
 
-### AI政策
+## 政策提言案
 
-現在のAI政策はこちらから確認できます。
+現時点での政策提言案はこちらから確認できます。
 
 - 1.生成AI活用
     - [1.1 教育DXへの生成AI活用](./1.1_教育DXへの生成AI活用.md)
@@ -19,6 +25,16 @@
 - 2.[海外AI人材・企業への魅力発信](./2_海外AI人材・企業への魅力発信.md)
 - 3.[AI人材育成](./3_AI人材育成.md)
 - 4.[ガバナンスルールの整備](./4_ガバナンスルールの整備.md)
+
+## 取り組みの背景
+
+「デジタル民主主義2030」は、**技術の力で市民の声を活かし、政治をより良い形に進化させる**ことを目指したプロジェクトです。透明性と信頼を重視し、多くの人々が政策に参加できる未来を目指しています。    
+本取り組みはその一環で、「東京都AI戦略会議」の実際の論点について、オープンな議論と一人ひとりの意見を集めることで、技術の力で提言を作り上げます。   
+
+## 狙い
+
+本取り組みでは、技術によって民主主義的に作り上げた提言案に対し、「**提言修正AIモジュール**」を活用して、**どなたからでも**修正案を出してもらい、さらにブラッシュアップした提言とすることを目指しています。    
+技術の力でデジタル民主主義的に作り上げたアイデアを実際に東京都に提言することで、**世界の民主主義に新たな一歩**を踏み出すことを狙いとしています。    
 
 ## 注意事項
 
