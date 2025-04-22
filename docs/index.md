@@ -1,4 +1,4 @@
-# 東京都AI戦略いどばた会議 提言案
+# 東京都AI戦略いどばた会議 提言案（v0.5）
 
 <div style="margin-bottom: 20px;">
 <a href="https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/blob/main/docs/index.md" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub で編集する</a>
