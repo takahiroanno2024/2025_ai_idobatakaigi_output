@@ -8,6 +8,7 @@
 <a href="https://delib.takahiroanno.com/view/docs" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">提言修正AIモジュールで編集する</a>
 </div>
 
+
 ## 概要
 
 この「東京都AI戦略いどばた会議」は、東京都AI戦略会議のメンバーである安野貴博が運営する、政策議論プラットフォームです。本プラットフォームは、以下の2つの目的を持っています。
