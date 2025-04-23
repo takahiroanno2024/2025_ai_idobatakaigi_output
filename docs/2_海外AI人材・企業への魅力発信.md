@@ -1,4 +1,5 @@
-# 世界のAI人材・企業などへ、どう東京の魅力を発信すべきか
+# 世界のAI人材・企業などへ、どう東京の魅力を発信すべきか（v0.5）
+
 
 <div style="margin-bottom: 20px;">
 <a href="https://large-scale-conversation-sandbox.discourse.group/t/topic/365" style="display: inline-block; padding: 10px 20px; margin-right: 10px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Discourse で議論する</a>
