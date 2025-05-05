@@ -442,7 +442,3 @@ NEXs Tokyo や Tokyo Innovation Base（TiB）といった既存のスタート�
 ## 参考URL
 - 有識者による議論を行った掲示板：https://large-scale-conversation-sandbox.discourse.group/t/topic/75/50
 - AIチャット、掲示板、X、youtubeから収集した意見の取りまとめ：https://delib.takahiroanno.com/projects/67bdc8e71e9569d867825f3b/overall
-
-## 貢献してくれた人
-- 追記予定です。
-
