@@ -19,7 +19,7 @@
         - 本プラットフォーム上で議論された内容は安野を経由して実際に東京都AI戦略会議の議論に影響を与える可能性がある
     - デジタル民主主義のための [大規模熟議プラットフォーム](https://note.com/annotakahiro24/n/nfd4a855cd1a8)の開発や実験を行うため
         - AIを用いることで、SNS上の議論をモデレーションしたり、可視化したりすることができるのではないかという仮説がある
-            - 台湾では[vTaiwan](https://vtaiwan.tw/)、[數位民主實驗平台](https://twfuture.care/energy/)などで類似の事例がある
+            - 台湾では、市民がオンラインで政策議論に参加するプラットフォームである[vTaiwan](https://vtaiwan.tw/)や、エネルギー政策に特化した議論を行った[數位民主實驗平台](https://twfuture.care/energy/)など、同様の取り組みが行われています。
             - 現在、「α版」という建付けで小規模に運用をしている（[利用ルールはこちら](https://large-scale-conversation-sandbox.discourse.group/t/topic/44)）
 
 ![image](https://canada1.discourse-cdn.com/flex033/uploads/large_scale_conversation_sandbox/original/1X/8b9fd7aaceda59f05ed379eaca2c7e22fb7a1832.jpeg)
@@ -46,3 +46,5 @@
 
 - [Discourse](https://www.discourse.org/)というオープンソースの掲示板をカスタマイズして利用しています
 - 実運用時には、実際に利用する政党や自治体が、それぞれ自分たちのフォーラムとしてホスティングし、利用いただくような想定です。
+
+---
