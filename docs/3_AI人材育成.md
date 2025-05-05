@@ -56,8 +56,11 @@ AI人材の育成を強化するためには、東京都が中心となり、産
 
 ### 挙げられた意見
 > [大学におけるAIスタートアップ創出支援について、支援の程度をどうするにせよ、大学と都の連携（産学官連携）を綿密に行っていく必要があると考える。大学は本来的には研究・教育機関であり、スタートアップ創出のための機関ではないので、都としてスタートアップ創出を目指すのであれば、大学側に都の意思を理解してもらい、協力を得、学問の応用面を重視していく必要がある。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/26?u=eitaro)
+
 > [大学発スタートアップ創出支援や教育への介入の意義に疑問が残る。需要が大きい産業は自然に成長し、需要が大きい学習内容は自然と学ばれるのではないだろうか。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/9?u=eitaro)
+
 > [大学発スタートアップ数に関して、短期・中期・長期でそれぞれ具体的な目標数値を設定し、それに応じた補助金を毎年予算に組み込むべきである。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/12?u=eitaro)
+
 > [今後エンジニア自体がAIに置き換えられていくことを考えると、「AIエンジニアや情報系人材」よりは「AIも使いつつ事業を起こす起業家」の人数の方がボトルネックになるのでは。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/35?u=eitaro)
 
 ### 海外事例
@@ -372,9 +375,8 @@ NEXs Tokyo や Tokyo Innovation Base（TiB）といった既存のスタート�
 - 企業側の受入体制（報酬・指導コスト・業務設計など）の負担軽減も必要です。
 
 ### 挙げられた意見
-> [スタートアップを立ち上げることが身近になり、効果がありそうですね。支援の方法としては、どのようなやり方が考えられるでしょうか？皆さんのご意見をいただけると幸いです！ ](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/38?u=eitaro) 
-> [インターン生の報酬を行政が支援（スタートアップへのインターンシップ推進事業はすでに東京都の取り組みとしてもあるようです。これの規模を拡大するようなイメージでしょうか？）](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/38?u=eitaro)  
 > [インターン生の定義の拡大もできたらよいと思います。（学生という限定をはずす感じ。）  ](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/45?u=eitaro)
+
 > [体験内容の拡大もあるとよいと思います。例えばAIスタートアップ企業が抱える課題のアイデアソンを開催（一部補助）して、老若男女の参加でイノベーションに期待したり。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/45?u=eitaro)
 
 > [インターン・実践体験があることで、自分で立ち上げようというモチベーションにもなるかと。](https://large-scale-conversation-sandbox.discourse.group/t/topic/75/34?u=eitaro)
