@@ -53,7 +53,7 @@ AIとのチャットを通して修正提案ができますので、提言の改
 1. **領域エキスパートによる一次レビュー**
     - 各提案は、該当領域のエキスパートがレビューし、採用の可否を判断します。
     - **ご提案を採用できない場合**は、その理由がプルリクエスト内に記載されます。プルリクエストとそれに対するコメントは、以下のリンクからご覧になれます。
-        - [ご提案（プルリクエスト）集](https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/pulls)
+        - [ご提案（プルリクエスト）集](https://github.com/takahiroanno2024/2025_ai_idobatakaigi_output/issues?q=is%3Apr%20author%3Aapp%2Fidobata-edit-ai%20)
     - **審査は原則7日以内**に実施いたします。
 
 2. **運営者（安野）による最終確認**
